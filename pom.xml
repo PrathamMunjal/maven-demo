@@ -34,7 +34,9 @@
         </dependency>
 
     </dependencies>
-
+    <properties>
+        <sonar.projectKey>mvn-test</sonar.projectKey>
+    </properties>
     <build>
         <plugins>
             <plugin>
